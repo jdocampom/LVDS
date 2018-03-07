@@ -1,0 +1,6 @@
+verilog work ../peripheral_lvds.v
+verilog work ../serializer.v
+verilog work ../lvds_clockgen.v
+verilog work ../video_lvds.v
+verilog work ../dvi_decoder.v
+verilog work ../LVDS_test.v

@@ -1,0 +1,7 @@
+INFILE=/home/juandiegoocampo/Dropbox/LVDS/build/project_r.ncd
+OUTFILE=/home/juandiegoocampo/Dropbox/LVDS/build/project_r.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=/home/juandiegoocampo/Dropbox/LVDS/build
+LICENSE=WebPack
+USER_INFO=211383071_0_0_378

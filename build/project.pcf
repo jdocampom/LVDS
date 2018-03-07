@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Feb 25 13:56:10 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "P17" LEVEL 1;
+COMP "channel1_n" LOCATE = SITE "P50" LEVEL 1;
+COMP "channel1_p" LOCATE = SITE "P51" LEVEL 1;
+COMP "channel2_n" LOCATE = SITE "P55" LEVEL 1;
+COMP "channel2_p" LOCATE = SITE "P56" LEVEL 1;
+COMP "channel3_n" LOCATE = SITE "P57" LEVEL 1;
+COMP "channel3_p" LOCATE = SITE "P58" LEVEL 1;
+COMP "clock_n" LOCATE = SITE "P61" LEVEL 1;
+COMP "clock_p" LOCATE = SITE "P62" LEVEL 1;
+NET "clk_IBUFG" PERIOD = 10 ns HIGH 50%;
+SCHEMATIC END;
+
